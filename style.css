@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+
+h1,
+h2 {
+  margin-bottom: 1rem;
+}
+.mamu {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+}
